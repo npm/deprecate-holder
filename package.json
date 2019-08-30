@@ -1,6 +1,6 @@
 {
-  "name": "XXXXXXX",
-  "version": "0.0.1-security",
+  "name": "trona-evolutions",
+  "version": "1.0.0-security",
   "description": "",
   "main": "index.js",
   "scripts": {
