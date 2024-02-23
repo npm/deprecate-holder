@@ -1,5 +1,14 @@
-# Deprecated Package
-
-This package is no longer supported and has been deprecated. To avoid malicious use, npm is hanging on to the package name.
-
-Please contact support@npmjs.com if you have questions about this package. 
+# https://tea.xyz/what-is-this-file
+---
+version: 1.0.0
+codeOwners:
+  - '0x5693a0ad9a6E3f92d1243FF56A5E4b1f162785fa'
+  - '0xd90dd030D1940d7A237e5fcbeC06c5d8be26E001'
+  - '0x2Dab42d3a39265D217EC4016d9C803b64aEBd68E'
+  - '0x84d42f3Ee986Dd350c3fad840cEaE0432d654ab9'
+  - '0xd653b48A176F3d3381eCFfBe5a36caeC7ca7d4a0'
+  - '0x1a35698b9dF2bd011210775Ad84256e053ae507A'
+  - '0xB42db0756cbCe5cF51eB0E2FFDb87d2a855fD562'
+  - '0xBCd2ec31949d61ee91eBb5cdf43c4AC429ec5ccC'
+  - '0x4094D1BdeB6C7b6b47684ee0CAFc6d0B1554E979'
+quorum: 1
